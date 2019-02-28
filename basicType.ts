@@ -9,8 +9,8 @@ let list: number[] = [1,2,3];
 //tuple
 let x: [string, number] = ['2',1];
 //enum
-enum Color {Red, Green, Blue}
-let c: Color = Color.Green;
+// enum Color {Red, Green, Blue}
+// let c: Color = Color.Green;
 //any
 let notSure: any = 4;
 //void
